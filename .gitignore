@@ -1,0 +1,16 @@
+
+# Node.js / React
+node_modules/
+dist/
+
+# Java build files
+target/
+build/
+
+# Environment variables and secrets
+.env
+**/.env
+
+# IDE settings
+.idea/
+.vscode/
